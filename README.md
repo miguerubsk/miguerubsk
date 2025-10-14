@@ -117,6 +117,9 @@ Aquí tienes algunos de mis proyectos más relevantes:
 [![Migueurbsk's top languages][githubtop-link]][githubstats-repo-link]
 [![Migueurbsk's github streak][githubstreak-link]][githubstreak-repo-link]
 
+### MyAnimeList
+[![Firma de miguerubsk](https://cdn.myanimelist.net/signature/miguerubsk.png)](https://myanimelist.net/animelist/miguerubsk&sclick=1)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- Utilidades -->
