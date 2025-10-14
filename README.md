@@ -251,13 +251,13 @@ Aquí tienes algunos de mis proyectos más relevantes:
 [thunderbird-link]: https://www.thunderbird.net/es-ES/
 [githubstats-repo-link]: https://github.com/anuraghazra/github-readme-stats
 [githubstreak-repo-link]: https://github.com/DenverCoder1/github-readme-streak-stats
-[githubstreak-link]: https://github-readme-streak-stats.herokuapp.com/?user=miguerubsk&theme=blue-green
-[githubstats-link]: https://github-readme-stats.vercel.app/api?username=miguerubsk&theme=blue-green
-[githubtop-link]: https://github-readme-stats.vercel.app/api/top-langs?username=miguerubsk&show_icons=true&locale=en&layout=compact&theme=blue-green
+[githubstreak-link]: https://github-readme-streak-stats-topaz-nine.vercel.app/?user=miguerubsk&theme=dark&locale=es
+[githubstats-link]: https://github-readme-stats.vercel.app/api?username=miguerubsk&theme=dark
+[githubtop-link]: https://github-readme-stats.vercel.app/api/top-langs?username=miguerubsk&show_icons=true&locale=en&layout=compact&theme=dark
 
 <!--
 **miguerubsk/miguerubsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github-readme-streak-stats.herokuapp.com/?user=miguerubsk&theme=blue-green
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
