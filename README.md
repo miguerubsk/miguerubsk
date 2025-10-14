@@ -255,8 +255,8 @@ Aquí tienes algunos de mis proyectos más relevantes:
 [githubstats-repo-link]: https://github.com/anuraghazra/github-readme-stats
 [githubstreak-repo-link]: https://github.com/DenverCoder1/github-readme-streak-stats
 [githubstreak-link]: https://github-readme-streak-stats-topaz-nine.vercel.app/?user=miguerubsk&theme=dark&locale=es
-[githubstats-link]: https://github-readme-stats.vercel.app/api?username=miguerubsk&theme=dark
-[githubtop-link]: https://github-readme-stats.vercel.app/api/top-langs?username=miguerubsk&show_icons=true&locale=en&layout=compact&theme=dark
+[githubstats-link]: https://github-readme-stats.vercel.app/api?username=miguerubsk&theme=dark&locale=es
+[githubtop-link]: https://github-readme-stats.vercel.app/api/top-langs?username=miguerubsk&show_icons=true&locale=es&layout=compact&theme=dark
 
 <!--
 **miguerubsk/miguerubsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
