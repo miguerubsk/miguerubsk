@@ -1,6 +1,6 @@
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif' />
 
-<h1 align="center">Bienvenido, Soy Miguel González "miguerubsk"</h1>
+<h1 align="center">Hola! Soy Miguel González "miguerubsk"</h1>
 <!--<h3 align="center">Consultor asociado apasionado en Nfoque</h3> -->
 
 [![views-counter][viewscounter-link]][viewscounter-repo]
@@ -23,7 +23,7 @@ Comparto activamente mis proyectos personales a través de mi repositorio, ofrec
 Aquí tienes algunos de mis proyectos más relevantes:
 
 - [BatchPDF-Creator][BatchPDFCreator-link]: Automatiza la creación de PDFs por lotes desde archivos de imágenes.
-- [Factorio-Server-Updater][FactorioServerUpdater-link]: Herramienta para actualizar de Factorio fácilmente.
+- [IC2-Reactor-Alg][IC2ReactorAlg-link]: Algoritmo genético evolutivo para optimizar la configuración de reactores nucleares en IndustrialCraft 2, facilitando la simulación y el diseño eficiente de reactores nucleares en Minecraft.
 - [Metaheuristicas_Pr_3][MetaheuristicasPr3-link]: Proyecto de algoritmos metaheurísticos de sistemas de colonias de hormigas, enfocado en la optimización de problemas complejos.
 - [Estructuras de Datos][EEDD-link]: Colección de implementaciones propias de estructuras de datos en C++, diseñadas para mejorar el rendimiento y la comprensión de algoritmos.
 - [Algoritmos varios][DA-link]: Repositorio de algoritmos variados desarrollados en C, aplicando diferentes técnicas de diseño y resolución de problemas. (WIP)
@@ -96,24 +96,26 @@ Aquí tienes algunos de mis proyectos más relevantes:
 
 ##### Preferencias de contacto (ordenadas por privacidad)
 
-1. [![Thunderbird][thunderbird-shield]][thunderbird-link] Siempre que sea cifrado, este es mi método de contacto favorito (Ver más abajo).
-2. [![Signal][signal-shield]][signal-link] (Aún no lo he configurado en mi nuevo dispositivo)
+1. [![Thunderbird][thunderbird-shield]][thunderbird-link]\*
+2. [![Signal][signal-shield]][signal-link]\*\*
 3. [![Matrix][matrix-shield]][matrix-link]
-4. [![TeamSpeak][teamspeak-shield]][teamspeak-link]
-5. [![Telegram][telegram-shield]][telegram-link]
+4. [![Telegram][telegram-shield]][telegram-link]
+5. [![TeamSpeak][teamspeak-shield]][teamspeak-link]
 6. [![LinkedIn][linkedin-shield]][linkedin-link]
 7. [![Steam][steam-shield]][steam-link]
 8. [![Stack Overflow][so-shield]][so-link]
 9. [![MyAnimeList][mal-shield]][mal-link]
 
-> Para escribirme por correo, te pido que utilices cifrado PGP siguiendo la guía de [Email Self-Defense][emaildefense-link]. Así garantizamos que la comunicación sea realmente privada y solo accesible para nosotros.
-> Puedes encontrar mi clave pública [aquí][pgp-key] y usar [este enlace][email-link] para enviarme un correo.
+> Para escribirme por correo, te pido que utilices cifrado PGP siguiendo la guía de [Email Self-Defense][emaildefense-link]. Así garantizamos que la comunicación sea realmente privada y solo accesible para nosotros. <br>
+> Puedes encontrar mi clave pública [aquí][pgp-key] y usar [este enlace][email-link] para enviarme un correo. <br>
+> > \*Siempre que sea cifrado, este es mi método de contacto favorito.<br>
+> > \*\*Aún no lo he configurado en mi nuevo dispositivo<br>
 
 ## 📊 Mis estadísticas
 
 [![Migueurbsk's github stats][githubstats-link]][githubstats-repo-link]
-[![Migueurbsk's github streak][githubstreak-link]][githubstreak-repo-link]
 [![Migueurbsk's top languages][githubtop-link]][githubstats-repo-link]
+[![Migueurbsk's github streak][githubstreak-link]][githubstreak-repo-link]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -123,7 +125,7 @@ Aquí tienes algunos de mis proyectos más relevantes:
 [email-link]: mailto:miguerubsk@gmail.com
 [emaildefense-link]: https://emailselfdefense.fsf.org/es/
 [BatchPDFCreator-link]: https://github.com/miguerubsk/BatchPDF-Creator
-[FactorioServerUpdater-link]: https://github.com/miguerubsk/Factorio-Server-Updater
+[IC2ReactorAlg-link]: https://github.com/miguerubsk/IC2
 [MetaheuristicasPr3-link]: https://github.com/miguerubsk/Metaheuristicas_Pr_3
 [EEDD-link]: https://github.com/miguerubsk?tab=repositories&q=EEDD&type=&language=&sort=
 [DA-link]: https://github.com/miguerubsk/Pr_DA
