@@ -125,7 +125,7 @@ Aquí tienes algunos de mis proyectos más relevantes:
 [email-link]: mailto:miguerubsk@gmail.com
 [emaildefense-link]: https://emailselfdefense.fsf.org/es/
 [BatchPDFCreator-link]: https://github.com/miguerubsk/BatchPDF-Creator
-[IC2ReactorAlg-link]: https://github.com/miguerubsk/IC2
+[IC2ReactorAlg-link]: https://github.com/miguerubsk/IC2-Reactor-Alg
 [MetaheuristicasPr3-link]: https://github.com/miguerubsk/Metaheuristicas_Pr_3
 [EEDD-link]: https://github.com/miguerubsk?tab=repositories&q=EEDD&type=&language=&sort=
 [DA-link]: https://github.com/miguerubsk/Pr_DA
