@@ -5,6 +5,7 @@
 
 [![views-counter][viewscounter-link]][viewscounter-repo]
 
+
 **Consultor asociado en Nfoque, Madrid (Jornada completa)** <br>
 Comparto activamente mis proyectos personales a través de mi repositorio, ofreciendo una visión de mi recorrido en el mundo siempre cambiante de la programación y la tecnología. Impulsado por la curiosidad y el compromiso con el crecimiento, exploro continuamente nuevas tecnologías y supero mis límites creativos. Sígueme para ver cómo aprendo, construyo e innovo.
 
