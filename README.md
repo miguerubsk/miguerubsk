@@ -114,6 +114,7 @@ Aquí tienes algunos de mis proyectos más relevantes:
 
 ## 📊 Mis estadísticas
 
+[![Migueurbsk's github stats][profile-summary]][profile-summary-repo]
 [![Migueurbsk's github stats][githubstats-link]][githubstats-repo-link]
 [![Migueurbsk's top languages][githubtop-link]][githubstats-repo-link]
 [![Migueurbsk's github streak][githubstreak-link]][githubstreak-repo-link]
@@ -260,6 +261,8 @@ Aquí tienes algunos de mis proyectos más relevantes:
 [githubstats-link]: ./profile/stats.svg
 <!--https://github-readme-stats.vercel.app/api?username=miguerubsk&theme=dark&locale=es-->
 [githubtop-link]: https://github-readme-stats.vercel.app/api/top-langs?username=miguerubsk&show_icons=true&locale=es&layout=compact&theme=dark
+[profile-summary]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguerubsk&theme=darcula
+[profile-summary-repo]: https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic?tab=readme-ov-file#-github-profile-summary-card-
 
 <!--
 **miguerubsk/miguerubsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
